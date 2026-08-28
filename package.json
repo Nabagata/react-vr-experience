@@ -1,7 +1,7 @@
 {
-  "name": "fb-vr",
+  "name": "react-vr-experience",
   "version": "1.0.0",
-  "description": "A React-based VR web experience",
+  "description": "An immersive React-based VR web experience with Three.js",
   "private": true,
   "scripts": {
     "start": "node app.js",

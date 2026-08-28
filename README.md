@@ -1,10 +1,10 @@
-# FB_VR - React VR Experience
+# React VR Experience
 
-A modern React-based VR web experience built with Three.js and the WebVR API.
+An immersive React-based VR web experience built with Three.js and the WebVR API.
 
 ## Project Overview
 
-This project demonstrates a VR-enabled web application using React and Three.js. It provides an immersive 360-degree experience viewable in VR headsets or browsers with VR support.
+`react-vr-experience` demonstrates a modern VR-enabled web application using React 18 and Three.js. It provides an immersive 360-degree environment viewable in VR headsets or browsers with VR support.
 
 ## Requirements
 
